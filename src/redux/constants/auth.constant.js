@@ -1,0 +1,5 @@
+export const authenticationConstant = {
+    AUTH_CALL_PENDING: "AUTH_CALL_PENDING",
+    AUTH_CALL_SUCCESS: "AUTH_CALL_SUCCESS",
+    AUTH_CALL_FAILURE: "AUTH_CALL_FAILURE"
+}
